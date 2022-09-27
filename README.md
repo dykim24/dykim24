@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dykim24&show_icons=true&theme=radical)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dykim24)](https://solved.ac/dykim24)
